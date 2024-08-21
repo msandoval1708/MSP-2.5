@@ -17,7 +17,7 @@ config server_version 1.18.2
 config_save
 say Descargando DawnCraft...
 say Instalando DawnCraft...
-download_file https://mediafilez.forgecdn.net/files/5399/272/DawnCraft%202.0.9_f3%20Serverpack.zip DawnCraft.rar
+download_file https://download1336.mediafire.com/6racogtd5pcgdsRIn3BMcW9HKfhsu40pBpUpSmNkMzDMB9Z3vWB72aBCklVfPCNZYk43UqZxjPllrDHBzWvKCun6kOthB0aaW2p-p6rJltL9BvL9UqDLkE_OmPmdbHdXWqTssEmaw5cD_peIgSkicW1Z-kA1PwA7Zfmj4nAsbmPF6tk/mnmxpwn3x4ahmuk/DawnCraft+2.0.12+Serverpack.zip DawnCraft.rar
 unzip DawnCraft.rar
 say DawnCraft instalado!
 exec echo "eula=true" >> eula.txt
