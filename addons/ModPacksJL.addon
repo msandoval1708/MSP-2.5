@@ -5,7 +5,7 @@ a_author JustinBV_LunaVG
 a_add_type c_for
 a_add_version c_for 1.18.2 https://maven.minecraftforge.net/net/minecraftforge/forge/1.18.2-40.2.17/forge-1.18.2-40.2.17-installer.jar 17
 a_add_version c_for 47.2.30 https://maven.minecraftforge.net/net/minecraftforge/forge/1.20.1-47.2.30/forge-1.20.1-47.2.30-installer.jar 17
-a_add_version c_for 47.2.6 https://maven.minecraftforge.net/net/minecraftforge/forge/1.20.1-47.2.6/forge-1.20.1-47.2.6-installer.jar 17
+a_add_version c_for 47.2.6 https://maven.minecraftforge.net/net/minecraftforge/forge/1.20.1-47.3.3/forge-1.20.1-47.3.3-installer.jar 17
 
 :button instalar_DawnCraft
 text Instalar DawnCraft (1.18.2 / Forge)
@@ -224,7 +224,7 @@ config server_type forge
 config server_version 1.20.1
 config_save
 say Descargando Medieval_MC...
-download_file https://mediafilez.forgecdn.net/files/5191/312/MMC4_Forge_1.20.1_v26.5_HF_Serverpack.zip Medieval_MC.zip
+download_file https://download1500.mediafire.com/djzdxalegovgUw8oP3GQ0QwDy2z0Vz4X17Fro79BvsZuTULXeO9m4kXzzYNbHzs5VXPugmDTgTnMSMZljjcb2S6GGZNd0-WnWFYaJjtTRc33sTLFgERIs2U2AuXkPWuE86Gz7x4vMQYkmH1_bpFjadOCXjydDa8AWG4CV79qKGecHVw/9ywxsk6snvgqisb/Medieval_MC.zip Medieval_MC.zip
 unzip Medieval_MC.zip
 exec echo "eula=true" >> eula.txt
 exec rm server-icon.png
